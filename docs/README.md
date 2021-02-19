@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/1gowDNc.png)
 
-## This is a coding quiz, its function is to quiz the user and track their score.
+## This is a coding quiz game, its function is to quiz the user and track their highscore.
 
 ### The website can be viewed [here](https://pdsan97.github.io/Coding-Quiz)
 
