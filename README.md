@@ -1,6 +1,6 @@
 # Coding Quiz
 
-![](https://i.imgur.com/1gowDNc.png)
+![](https://i.imgur.com/kZFYuo0.jpg)
 
 ## This is a coding quiz game, its function is to quiz the user and track their highscore.
 
